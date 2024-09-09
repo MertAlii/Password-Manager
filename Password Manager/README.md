@@ -10,8 +10,6 @@ This project is a Password Manager developed using Python and CustomTkinter. It 
 - **Username and Password Copying:** Copy your account information to the clipboard with a single click.
 - **Theme Options:** Offers the option to use the application in light or dark theme mode.
 
-## Nasıl Çalıştırılır
-
 ## How to Run
 
 1. Clone the project:
