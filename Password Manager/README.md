@@ -32,13 +32,13 @@ This project is a Password Manager developed using Python and CustomTkinter. It 
 
 Below you can find screenshots of the application:
 
-![Ana Menü](AnaMenü.png)
+![Ana Menü](png/AnaMenü.png)
 
-![Hesap Ekle](HesapEkle.png)
+![Hesap Ekle](png/HesapEkle.png)
 
-![Hesaplar](Hesaplar.png)
+![Hesaplar](png/Hesaplar.png)
 
-![Şifre Güncelleme Menüsü](ŞifreGüncellemeMenüsü.png)
+![Şifre Güncelleme Menüsü](png/ŞifreGüncellemeMenüsü.png)
 
-![Şifre Üretme Menüsü](ŞifreÜretmeMenüsü.png)
+![Şifre Üretme Menüsü](png/ŞifreÜretmeMenüsü.png)
 
